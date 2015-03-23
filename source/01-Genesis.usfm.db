@@ -1,12 +1,21 @@
-﻿\id GEN
+\id GEN
 \ide UTF-8
 \h Genesis
-\mt2 The
-\mt2 First Book of Moses
-\mt2 Called
-\mt Genesis
- 
+\toc1 The First Book of Moses, commonly called Genesis
+\toc2 Genesis
+\toc3 Gen
+\mt3 The
+\mt2 First Book of Moses,
+\mt3 commonly called
+\mt1 Genesis
+
+
+\rem   License:
+\rem       creative commons 4.0 Attribution-ShareAlike License
+\rem       http://creativecommons.org/licenses/by-sa/4.0/
+\rem 
 \rem   Original Base Text:
+\rem       WorldEnglishBible.org
 \rem       Kent's Shorter Bible
 \rem       Kent's Children's Bible
 \rem       Kent's Student's Old Testament
@@ -26,215 +35,231 @@
 \rem lad -> boy
 \rem ass -> donkey
 \rem kid -> (young) goat
- 
+
 \c 1
 \ms Creation
-\rem Shorter (heavily amended)
- 
-\q1 \v 1 In the beginning when God created the heavens and the earth, 
-	\q2 \v 2 the earth was still unformed and chaotic, 
-	\q2 with darkness on the surface of the abyss, 
-	\q2 and the spirit of God hovering over the waters.
-	\q2 \v 3 God said, “Let there be light,” and there was light.
-	\q2 \v 4 God saw that the light was good.
-	\q2 He separated the light from the darkness,
-	\q2 \v 5 calling the light 'day' and the darkness 'night'. 
-\q1 There was an evening and a morning, making the first day.
+\q1
+\v 1 In the beginning, when God\f + The Hebrew word rendered “God” is “אֱלֹהִ֑ים” (Elohim).\f* was creating the heavens and the earth,
+    \q2
+    \v 2 the earth was still formless and empty,
+    \q2 darkness was on the surface of the Abyss,\f + The Hebrew word used here is often translated simply as “the deep” but the word “Abyss” as used in Greek and English translation of other parts of the Bible “אֱלֹהִ֑ים” (Elohim).\f*
+    \q2 and the Spirit of God was hovering over the surface of the waters.
+    \q2
+    \v 3 God said, “Let there be light,” and there was light.
+    \q2
+    \v 4 God saw the light, and saw that it was good.
+    \q2 God divided the light from the darkness.
+    \q2
+    \v 5 God called the light “day”, and the darkness he called “night”.
+\q1 There was evening and there was morning, the first day.
 \b
-\q1 \v 6 Then God said, “Let there be a dome between the waters,
-	\q2 and let it separate the waters from the waters.” 
-	\q2 \v 7 So God made the dome to separate the waters below 
-	\q2 from the waters which were above it. 
-		\q3 It was so. 
-		\q2 \v 8 God called the dome the 'sky'. 
-\q1 There was an evening and a morning, making the second day.
+\q1
+\v 6 God said, “Let there be an expanse in the middle of the waters,
+    \q2 and let it divide the waters from the waters.”
+    \q2
+    \v 7 God made the expanse, and divided the waters which were under the expanse
+    \q2 from the waters which were above the expanse; and it was so.
+    \q2
+    \v 8 God called the expanse “sky”.
+\q1 There was evening and there was morning, a second day.
 \b
-\q1 \v 9 Then God said, “Let the waters under the sky be gathered together, 
-	\q2 and let the dry ground appear.” 
-		\q3 It was so. 
-		\q2 \v 10 God called the dry ground 'land' 
-		\q2 and he called the gathered waters 'seas'. 
-\q3 God saw that it was good.
+\q1
+\v 9 God said, “Let the waters under the sky be gathered together to one place,
+    \q2 and let the dry land appear;” and it was so.
+    \q2
+    \v 10 God called the dry land “earth”,
+    \q2 and the gathering together of the waters he called “seas”.
+    \q3 God saw that it was good.
+    \q2
+\v 11 God said, “Let the earth yield grass, herbs yielding seeds,
+    \q2 and fruit trees bearing fruit after their kind, with their seeds in it, on the earth;” and it was so.
+    \q2
+    \v 12 The earth yielded grass, herbs yielding seed after their kind,
+    \q2 and trees bearing fruit, with their seeds in it, after their kind; and God saw that it was good.
+    \q1
+\v 13 There was evening and there was morning, a third day.
 \b
-\q1 \v 11 God said, “Let the earth put forth vegetation: 
-	\q2 Plants on the earth which yield their own kind of seed, 
-	\q2 and trees that bear fruits in which are their own seed.” 
-		\q3 It was so. 
-	\q2 \v 12 The earth sprouted vegetation: 
-	\q2 seed-bearing plants, 
-	\q2 and trees with seed-bearing fruit.
-		\q3 God saw that it was good. 
-\q1 \v 13 There was an evening and a morning, making the third day.
+\q1
+\v 14 God said, “Let there be lights in the expanse of the sky to divide the day from the night;
+    \q2 and let them be for signs to mark seasons, days, and years;
+    \q2
+    \v 15 and let them be for lights in the expanse of the sky to give light on the earth;” and it was so.
+    \q2
+    \v 16 God made the two great lights:
+    \q2 the greater light to rule the day, and the lesser light to rule the night.
+    \q3 He also made the stars.
+    \q2
+    \v 17 God set them in the expanse of the sky to give light to the earth,
+    \q2
+    \v 18 and to rule over the day and over the night,
+    \q2 and to divide the light from the darkness.
+    \q3 God saw that it was good.
+\q1
+\v 19 There was evening and there was morning, a fourth day.
 \b
-\q1 \v 14 Then God said, “Let there be lights in the dome of the sky
-	\q2 to separate the night from the day. 
-	\q2 Let them be signs to mark the seasons, the days, and the years. 
-	\q2 \v 15 Let them be lights in the dome of the sky to light the earth.” 
-		\q3 It was so. 
-	\q2 \v 16 So God made the two great lights: 
-	\q2 The greater to rule the day and the lesser to rule the night.
+\q1
+\v 20 God said, “Let the waters abound with living creatures,
+    \q2 and let birds fly above the earth in the open expanse of the sky.”
+    \q2
+    \v 21 God created the large sea creatures
+    \q2 and every living creature that moves, with which the waters swarmed, after their kind,
+    \q2 and every winged bird after its kind.
+    \q2 God saw that it was good.
+    \q2
+    \v 22 God blessed them, saying, “Be fruitful, and multiply, and fill the waters in the seas, and let birds multiply on the earth.”
+\q1
+\v 23 There was evening and there was morning, a fifth day.
 \b
-\q1 God made the stars also. \v 17 He placed all these lights in the dome of the sky
-	\q2 to shed light upon the earth,
-	\q2 \v 18 to rule over the day and over the night, 
-	\q2 and to separate light from darkness.
-		\q3 God saw that it was good. 
-\q1 \v 19 There was an evening and a morning, making the fourth day.
+\q1
+\v 24 God said, “Let the earth produce living creatures after their kind,
+    \q2 livestock, creeping things, and animals of the earth after their kind;” and it was so.
+    \q2
+    \v 25 God made the animals of the earth after their kind,
+    \q2 and the livestock after their kind, and everything that creeps on the ground after its kind.
+    \q2 God saw that it was good.
+\p
+\q1
+\v 26 God said, “Let’s make man in our image, after our likeness.
+    \q2 Let them have dominion over the fish of the sea,
+    \q2 and over the birds of the sky, and over the livestock,
+    \q2 and over all the earth, and over every creeping thing that creeps on the earth.”
+\v 27 God created man in his own image.
+    \q3 In God’s image he created him;
+    \q2 male and female he created them.
 \b
-\q1 \v 20 Then God said, “Let the waters teem with living creatures,
-	\q2 and let birds fly over the earth in the open dome of the sky.” 
-	\q2 \v 21 God created the great sea monsters, 
-	\q2 all kinds of living, moving creatures with which the waters teem,
-	\q2 and all kinds of winged birds. 
-		\q3 God saw that it was good. 
-	\q2 \v 22 He blessed them, saying, “Be fruitful, 
-	\q2 increase, fill the oceans,
-	\q2 and let the birds increase on the land.” 
-\q1 \v 23 There was an evening and a morning, making the fifth day.
-\b
-\q1 \v 24 Then God said, “Let the earth produce all kinds of living creatures: 
-	\q2 cattle and reptiles and wild beasts.” 
-		\q3 It was so. 
-	\q2 \v 25 So God made all the different kinds of wild beasts,
-	\q2 and the cattle, and everything that crawls upon the ground. 
-		\q3 God saw that it was good.
-\b
-\q1 \v 26 Then God said, “Let us make humans who are images of us, who are like us. 
-	\q2 Let them rule over the fish of the sea,
-	\q2 the birds of the sky, the cattle, the wild beasts,
-	\q2 and all the reptiles that crawl upon the ground.” 
-	\q2 \v 27 So God created humans in his image, 
-		\q3 he created them in the image of God. 
-	\q2 He created them male and female.
-\b
-\q1 \v 28 Then God blessed them, and said to them:
-	\q2 “Be fruitful, grow in number,
-	\q2 fill the earth and govern it; 
-	\q2 rule over the fish of the sea, the birds of the sky, 
-	\q2 and over every living thing that crawls on the ground,”
-\b
-\q1 \v 29 God said, “I give you every seed-bearing plant
-	\q2 throughout all the earth, 
-	\q2 and every tree that has seed-bearing fruit. 
-	\q2 They will be food for you,
-	\q2 \v 30 and to every wild beast and to every bird of the sky, 
-	\q2 and to everything that crawls on the earth - 
-	\q2 everything with the breath of life in it, 
-	\q2 I give every green plant for food.”
-		\q3 It was so. 
-	\q2 \v 31 When God saw all that he had made,
-	\q2 he perceived that it was very good. 
-\q1 There was an evening and a morning, making the sixth day.
-\b
-\c 2 
-\q \v 1 So the heavens and the earth were finished, and everything in them. 
-	\q2 \v 2 When on the seventh day God finished the work which he had done,
-	\q2 he rested that day from all his work. 
-	\q2 \v 3 God blessed the seventh day and set it apart, 
-	\q2 for in it he rested from all the creative work which he had done.
- 
-\p \v 4 This is the story of the heavens and earth when they were created.
- 
-\ms The garden
-\rem Shorter
- 
-\p At the time when the \nd Lord\nd* God made earth and heaven, \v 5 there were not yet any plants on the earth, and no vegetation had sprung up; for the \nd Lord\nd* God had not sent rain upon the earth, and there was no one to till the soil. \v 6 A mist used to rise from the earth and water all the surface of the ground.
- 
-\p \v 7 Then the \nd Lord\nd* God [us:molded|cth:moulded] a human being out of dust taken from the ground and breathed into his nostrils the breath of life, and he became a living being. \v 8 The \nd Lord\nd* God planted a garden in Eden, far in the East; and placed the human he had formed there. \v 9 From the soil the \nd Lord\nd* God made grow all kinds of trees that are pleasant to look at and good for food, with the tree of life also in the middle of the garden and the tree that gives the knowledge of good and evil.
+\q1
+\v 28 God blessed them. God said to them, “Be fruitful, multiply, fill the earth, and subdue it. Have dominion over the fish of the sea, over the birds of the sky, and over every living thing that moves on the earth.”
+\v 29 God said, “Behold,\f + “Behold”, from “הִנֵּה”, means look at, take notice, observe, see, or gaze at. It is often used as an interjection.\f* I have given you every herb yielding seed, which is on the surface of all the earth, and every tree, which bears fruit yielding seed. It will be your food.
+\v 30 To every animal of the earth, and to every bird of the sky, and to everything that creeps on the earth, in which there is life, I have given every green herb for food;” and it was so.
+\p
+\v 31 God saw everything that he had made, and, behold, it was very good. There was evening and there was morning, a sixth day.
+\c 2
+\p
+\v 1 The heavens, the earth, and all their vast array were finished.
+\v 2 On the seventh day God finished his work which he had done; and he rested on the seventh day from all his work which he had done.
+\v 3 God blessed the seventh day, and made it holy, because he rested in it from all his work of creation which he had done.
+\p
+\v 4 This is the history of the generations of the heavens and of the earth when they were created, in the day that Yahweh\f + “Yahweh” is God’s proper Name, sometimes rendered “LORD” (all caps) in other translations.\f* God made the earth and the heavens.
+\v 5 No plant of the field was yet in the earth, and no herb of the field had yet sprung up; for Yahweh God had not caused it to rain on the earth. There was not a man to till the ground,
+\v 6 but a mist went up from the earth, and watered the whole surface of the ground.
+\v 7 Yahweh God formed man from the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul.
+\v 8 Yahweh God planted a garden eastward, in Eden, and there he put the man whom he had formed.
+\v 9 Out of the ground Yahweh God made every tree to grow that is pleasant to the sight, and good for food, including the tree of life in the middle of the garden and the tree of the knowledge of good and evil.
+\v 10 A river went out of Eden to water the garden; and from there it was parted, and became the source of four rivers.
+\v 11 The name of the first is Pishon: it flows through the whole land of Havilah, where there is gold;
+\v 12 and the gold of that land is good. Bdellium\f + or, aromatic resin\f* and onyx stone are also there.
+\v 13 The name of the second river is Gihon. It is the same river that flows through the whole land of Cush.
+\v 14 The name of the third river is Hiddekel. This is the one which flows in front of Assyria. The fourth river is the Euphrates.
+\v 15 Yahweh God took the man, and put him into the garden of Eden to cultivate and keep it.
+\v 16 Yahweh God commanded the man, saying, “You may freely eat of every tree of the garden;
+\v 17 but you shall not eat of the tree of the knowledge of good and evil; for in the day that you eat of it, you will surely die.”
+\p
+\v 18 Yahweh God said, “It is not good for the man to be alone. I will make him a helper comparable to\f + or, suitable for, or appropriate for.\f* him.”
+\v 19 Out of the ground Yahweh God formed every animal of the field, and every bird of the sky, and brought them to the man to see what he would call them. Whatever the man called every living creature became its name.
+\v 20 The man gave names to all livestock, and to the birds of the sky, and to every animal of the field; but for man there was not found a helper comparable to him.
+\v 21 Yahweh God caused the man to fall into a deep sleep. As the man slept, he took one of his ribs, and closed up the flesh in its place.
+\v 22 Yahweh God made a woman from the rib which he had taken from the man, and brought her to the man.
+\v 23 The man said, “This is now bone of my bones, and flesh of my flesh. She will be called ‘woman,’ because she was taken out of Man.”
+\v 24 Therefore a man will leave his father and his mother, and will join with his wife, and they will be one flesh.
+\v 25 The man and his wife were both naked, and they were not ashamed.
+\c 3
+\p
+\v 1 Now the serpent was more subtle than any animal of the field which Yahweh God had made. He said to the woman, “Has God really said, ‘You shall not eat of any tree of the garden’?”
+\p
+\v 2 The woman said to the serpent, “We may eat fruit from the trees of the garden,
+\v 3 but not the fruit of the tree which is in the middle of the garden. God has said, ‘You shall not eat of it. You shall not touch it, lest you die.’”
+\p
+\v 4 The serpent said to the woman, “You won’t really die,
+\v 5 for God knows that in the day you eat it, your eyes will be opened, and you will be like God, knowing good and evil.”
+\p
+\v 6 When the woman saw that the tree was good for food, and that it was a delight to the eyes, and that the tree was to be desired to make one wise, she took some of its fruit, and ate; and she gave some to her husband with her, and he ate it, too.
+\v 7 Their eyes were opened, and they both knew that they were naked. They sewed fig leaves together, and made coverings for themselves.
+\v 8 They heard Yahweh God’s voice walking in the garden in the cool of the day, and the man and his wife hid themselves from the presence of Yahweh God among the trees of the garden.
+\p
+\v 9 Yahweh God called to the man, and said to him, “Where are you?”
+\p
+\v 10 The man said, “I heard your voice in the garden, and I was afraid, because I was naked; and I hid myself.”
+\p
+\v 11 God said, “Who told you that you were naked? Have you eaten from the tree that I commanded you not to eat from?”
+\p
+\v 12 The man said, “The woman whom you gave to be with me, she gave me fruit from the tree, and I ate it.”
+\p
+\v 13 Yahweh God said to the woman, “What have you done?”
+\p The woman said, “The serpent deceived me, and I ate.”
+\p
+\v 14 Yahweh God said to the serpent,
+\q1 “Because you have done this,
+\q2 you are cursed above all livestock,
+\q2 and above every animal of the field.
+\q1 You shall go on your belly
+\q2 and you shall eat dust all the days of your life.
+\q1
+\v 15 I will put hostility between you and the woman,
+\q2 and between your offspring and her offspring.
+\q1 He will bruise your head,
+\q2 and you will bruise his heel.”
+\p
+\v 16 To the woman he said,
+\q1 “I will greatly multiply your pain in childbirth.
+\q2 In pain you will bear children.
+\q1 Your desire will be for your husband,
+\q2 and he will rule over you.”
+\p
+\v 17 To Adam he said,
+\q1 “Because you have listened to your wife’s voice,
+\q2 and ate from the tree,
+\q2 about which I commanded you, saying, ‘You shall not eat of it,’
+\q2 the ground is cursed for your sake.
+\q1 You will eat from it with much labor all the days of your life.
+\q2
+\v 18 It will yield thorns and thistles to you;
+\q2 and you will eat the herb of the field.
+\q1
+\v 19 By the sweat of your face will you eat bread until you return to the ground,
+\q2 for out of it you were taken.
+\q1 For you are dust,
+\q2 and to dust you shall return.”
+\p
+\v 20 The man called his wife Eve because she would be the mother of all the living.
+\v 21 Yahweh God made garments of animal skins for Adam and for his wife, and clothed them.
+\p
+\v 22 Yahweh God said, “Behold, the man has become like one of us, knowing good and evil. Now, lest he reach out his hand, and also take of the tree of life, and eat, and live forever—”
+\v 23 Therefore Yahweh God sent him out from the garden of Eden, to till the ground from which he was taken.
+\v 24 So he drove out the man; and he placed cherubim\f + cherubim are powerful angelic creatures, messengers of God with wings. See
+\+zref
+\+ztgt EZK.10.1 \+ztgt*\+zref*Ezekiel 10.
+\+zrefend \+zrefend*\f* at the east of the garden of Eden, and a flaming sword which turned every way, to guard the way to the tree of life.
+\c 4
+\p
+\v 1 The man knew\f + or, lay with, or, had relations with\f* Eve his wife. She conceived,\f + or, became pregnant\f* and gave birth to Cain, and said, “I have gotten a man with Yahweh’s help.”
+\v 2 Again she gave birth, to Cain’s brother Abel. Abel was a keeper of sheep, but Cain was a tiller of the ground.
+\v 3 As time passed, Cain brought an offering to Yahweh from the fruit of the ground.
+\v 4 Abel also brought some of the firstborn of his flock and of its fat. Yahweh respected Abel and his offering,
+\v 5 but he didn’t respect Cain and his offering. Cain was very angry, and the expression on his face fell.
+\v 6 Yahweh said to Cain, “Why are you angry? Why has the expression of your face fallen?
+\v 7 If you do well, won’t it be lifted up? If you don’t do well, sin crouches at the door. Its desire is for you, but you are to rule over it.”
+\v 8 Cain said to Abel, his brother, “Let’s go into the field.” While they were in the field, Cain rose up against Abel, his brother, and killed him.
+\p
+\v 9 Yahweh said to Cain, “Where is Abel, your brother?”
+\p He said, “I don’t know. Am I my brother’s keeper?”
+\p
+\v 10 Yahweh said, “What have you done? The voice of your brother’s blood cries to me from the ground.
+\v 11 Now you are cursed because of the ground, which has opened its mouth to receive your brother’s blood from your hand.
+\v 12 From now on, when you till the ground, it won’t yield its strength to you. You will be a fugitive and a wanderer in the earth.”
+\p
+\v 13 Cain said to Yahweh, “My punishment is greater than I can bear.
+\v 14 Behold, you have driven me out today from the surface of the ground. I will be hidden from your face, and I will be a fugitive and a wanderer in the earth. Whoever finds me will kill me.”
+\p
+\v 15 Yahweh said to him, “Therefore whoever slays Cain, vengeance will be taken on him sevenfold.” Yahweh appointed a sign for Cain, so that anyone finding him would not strike him.
+\p
+\v 16 Cain left Yahweh’s presence, and lived in the land of Nod, east of Eden.
 
-\rem Sui Generis
- 
-\p \v 10 A river flowed out of Eden and watered the garden, and from there branched into four. \v 11 The name of the first is Pishon, which flows round the whole land of Havilah, where there is gold. \v 12 The gold of that land is pure and there is aromatic gum and the onyx stone. \v 13 The name of the second river is Gihon, which flows [us:around|cth:round] the whole land of Cush, \v 14 and the name of the third river is the Tigris, which heads toward the east of Asshur. The fourth river is the Euphrates.
-
-\rem Shorter
- 
-\p \v 15 Then the \nd Lord\nd* God took the human and placed him in the garden of Eden to till it and to care for it. \v 16 The \nd Lord\nd* God also gave the human this command: “You may freely eat from every tree of the garden, \v 17 except from the tree that gives the knowledge of good and evil; from this you must not eat, for on the day that you eat from it you will surely die.”
- 
-\p \v 18 Then the \nd Lord\nd* God said, “It is not good for the human to be alone; I will make a helper suited to him.” \v 19 So out of the ground the \nd Lord\nd* God formed all the wild beasts and birds, and made them come to the human to see what he would call them. Whatever he called each living creature, that was its name. \v 20 So the human, Adam gave names to all cattle and all the wild birds and beasts. But there was no companion suitable for him.
- 
-\p \v 21 Then the \nd Lord\nd* God caused the human to fall into a deep sleep, and while he slept, he took one of his ribs and closed up its place with flesh. \v 22 With the rib which he had taken from the human, the \nd Lord\nd* built up a woman and brought her to the human. \v 23 Then the human said, “This now is bone of my bone and flesh of my flesh. She will be called Woman, for from man she was taken.” \v 24 For this reason a man leaves his father and his mother and clings to his wife, and the two become one flesh.
- 
-\p \v 25 The man and his wife were both naked, yet felt no shame.
- 
-\c 3 
-
-\p \v 1 Now the snake was craftier than any other wild beast that the \nd Lord\nd* God had made. It said to the woman, “Has God really said, ‘You must not eat from any tree of the garden’?” \v 2 The woman answered, “We are allowed to eat the fruit of all the trees of the garden; \v 3 it is only about the fruit of the tree  in the middle of the garden that God has said, ‘You must not eat from it, nor should you touch it, for if you do, you will die.’” \v 4 Then the snake said to the woman, “You will not die! \v 5  God knows that on the day you eat some of it your eyes will be opened, and you will be like gods, knowing what is good and what is evil.”
- 
-\p \v 6 When the woman saw that the tree was good for food, attractive to look at and desirable for acquiring wisdom, she took some of its fruit and ate. Then she gave some to her husband who was with her, and he ate.
- 
-\p \v 7 Then the eyes of both of them were opened, and they [us:realized|:cth:realised] that they were naked, so they sewed fig-leaves together to cover themselves. \v 8 But when they heard the sound of  the \nd Lord\nd* God walking in the garden in the evening breeze, the man and his wife hid from him among the garden trees.
- 
-\p \v 9 When the \nd Lord\nd* God called to the man, “Where are you?” \v 10 he replied, “I heard you in the garden and I was afraid, because I was naked, so I hid myself.” \v 11 The \nd Lord\nd* God said, “Who told you that you were naked? Did you eat from the tree from which I ordered you not to eat?” \v 12 The man answered, “The woman  you  placed beside me, she gave me fruit from the tree and I ate.” \v 13 The \nd Lord\nd* God said to the woman, “What is this that you have done?” The woman replied, “The snake deceived me, and I ate.”
- 
-\p \v 14 Then the \nd Lord\nd* God said to the snake:
-
-
-\q “Because you have done this, 
-\q you will be more accursed than all cattle 
-\q and all the wild beasts. 
-\q You will crawl on your belly 
-\q and eat dust 
-\q all your life. 
-\q \v 15 I will establish hostility between you and the woman, 
-\q between your offspring and hers, 
-\q who will wound your head, 
-\q and you will wound their heel.”
-
-\p \v 16 To the woman he said,
-
-\q “I will greatly increase your anguished toil in pregnancy;
-\q with pain will you bear children. 
-\q \q You will yearn for your husband, 
-\q but he will rule over you.”
-
-\p \v 17 To Adam he said,
-
-\q “Because you have listened to the voice of your wife, 
-\q and ate from the tree 
-\q about which I ordered you:
-\q 'You must never eat from it'
-\q the ground will be cursed because of you; 
-\q as long as you live, you will earn a living only by anguished toil.
-\b
-\q \v 18 The ground will always bring forth thorns and thistles, 
-\q and you will eat the plants of the field. 
-\q \v 19 By the sweat of your brow you will eat bread, 
-\q until you return to the ground, 
-\q for from it you were taken; 
-\q for dust you are, 
-\q and to dust you will return!”
-
-
- 
-\p \v 20 The man, Adam, named his wife Eve\f + Heb Havvah, that is, Life.\f*; because she was the mother of all living people. \v 21 The \nd Lord\nd* God made clothes from animal skins for Adam and his wife and dressed them.
- 
-\p \v 22 Then the \nd Lord\nd* God said: “The man has become like one of us, knowing good and evil. He must not reach out his hand, and take also from the tree of life, and eat, and live forever.” \v 23 So the \nd Lord\nd* God sent him out of the garden of Eden, to till the ground from which he had been taken. \v 24 He drove out Adam and he placed at the east of the garden of Eden the cherubim, and the blazing whirling sword, to bar the way to the tree of life.
-	
-\c 4 
-\rem Shorter
-\ms Cain and Abel
- 
-\p \v 1 Adam lay with his wife Eve and she became pregnant and gave birth to Cain, and she said, “I have created a man with the help of the \nd Lord\nd*!” \v 2 She also gave birth to his brother Abel. Abel was a shepherd, while Cain was a farmer.
- 
-\p \v 3 In the course of time Cain brought some of the ground's produce as an offering to the \nd Lord\nd*. \v 4 Abel too brought some of the choicest animals of his flock and sacrificed their fat pieces. The \nd Lord\nd* looked with approval on Abel and his offering \v 5 but he could not receive Cain and his offering with approval.
- 
-\p Cain burned with anger and his face fell. \v 6 So the \nd Lord\nd* said to Cain, “Why are you angry and why do you scowl? \v 7 If you do what is right and good, can't you hold your head up high? But if you do wrong, sin crouches at the door and longs to have you, but you must master it.”
- 
-\p \v 8 Cain said to his brother Abel, “Let us go into the field.” While they were there, Cain attacked his brother and killed him.
- 
-\p \v 9 Then the \nd Lord\nd* asked Cain, “Where is your brother Abel?” He answered, “I do not know! Am I my brother's keeper?” 
-
-\p \v 10 “What have you done?” the \nd Lord\nd* replied, “Listen! Your brother's blood is crying out to me from the ground. \v 11 Even now you are cursed by the very ground that has opened to receive your brother's blood shed by your hand. \v 12 From now on when you till the ground, it will no longer yield its best to you. You will be a vagabond and a wandering refugee upon the earth.”
- 
-\p \v 13 Then Cain said to the \nd Lord\nd*, “My punishment is too much for me to bear. \v 14 Look! Today you banish me from the ground. I must hide in your presence. I will be a wandering refugee upon the earth, and whoever finds me will kill me!”
- 
-\p \v 15 But the \nd Lord\nd* said to him, “If any one kills you, the crime shall be avenged sevenfold.” So the \nd Lord\nd* placed a distinctive mark on Cain, to keep any one who found him from killing him. \v 16 Cain departed from the \nd Lord\nd*'s presence and lived east of Eden in the land of Wandering.
- 
 \ms Genealogy
 \rem Sui Generis
- 
-\p \v 17 Cain lay with his wife. She became pregnant, giving birth to Enoch. Cain built a city, and named it after his son Enoch. \v 18 To Enoch was born Irad, and Irad fathered Mehujael, and Mehujael fathered Methushael, and Methushael fathered Lamech. 
- 
+
+\p \v 17 Cain knew his wife. She conceived, and gave birth to Enoch. He built a city, and called the name of the city, after the name of his son, Enoch.
+	\v 18 To Enoch was born Irad, and Irad fathered Mehujael, and Mehujael fathered Methushael, and Methushael fathered Lamech. 
+
 \ms Lamech's vengence
  
 \p \v 19 Lamech took two wives; the name of one was Adah, and the name of the other Zillah. \v 20 Adah gave birth to Jabal, who became the ancestor of the people who live in tents and have cattle. \v 21 His brother's name was Jubal; he was the ancestor of the people who play the harp and flute. \v 22 As for Zillah, she gave birth to Tubal-cain, who forged all sort of tools from copper and iron. The sister of Tubal-cain was Naamah. 

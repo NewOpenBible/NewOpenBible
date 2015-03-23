@@ -19,7 +19,7 @@ our guiding original text references are:
 * [Dead Sea Scrolls Digital Library](http://dss.collections.imj.org.il/), the [Leon Levy](http://www.deadseascrolls.org.il/?locale=en_US) online archives
 * Novum Testamentum Graece, [Nestle-Aland](http://en.wikipedia.org/wiki/Novum_Testamentum_Graece) 28th edition
 
-the NewOpenBible will draw upon available texts from two independent traditions:
+the NewOpenBible will draw upon available texts in the public domain from two independent traditions:
  1. the **[American Standard Version](http://en.wikipedia.org/wiki/American_Standard_Version)** (**ASV**) released 1901, former copyright has now expired so it is in the public domain and free to be published without payment of royalty---
    * a free updated revision is the [World English Bible](http://WorldEnglishBible.org) (**WEB**), one of the two most popular public domain, modern-English translations of the entire Bible and freely distributed to the public using electronic formats, a Hebrew Names Version is also available as the World Messianic Bible or World English Bible, Messianic Edition (**WEB:ME**)
  2. the Open English Bible (**OEB**) derived from the public domain Twentieth Century New Testament (TCNT) based on "The New Testament in the Original Greek" by [Westcott and Hort](http://en.wikipedia.org/wiki/Westcott-Hort) in 1881, and public domain translations of the Hebrew Bible done by John E McFadyen and Charles F Kent based on the Westminster online digital copy of the [Codex Leningradensis](http://en.wikipedia.org/wiki/Leningrad_Codex) maintained by the J. Alan Groves Center for Advanced Biblical Research at the Westminster Theological Seminary
@@ -30,7 +30,6 @@ most of all, we shall not diminish the divine glory and supreme authority of God
 
 Open English Bible
 ==================
-
 The [Open English Bible](http://OpenEnglishBible.org) is the anticipated end product of a project intended to create an English translation of the Bible that is:
 
 * under a licence enabling the maximum reuse, remixing and sharing without requiring the payment of royalties or the obtaining of permission from copyright holders; and
@@ -68,3 +67,12 @@ build-standard.sh
 Shell script which builds the two main sets of USFM files in final-usfm/us and final-usfm/cth
 
 
+## license / copyright status
+[![creative commons Attribution-ShareAlike License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png "creative commons Attribution-ShareAlike License")](http://creativecommons.org/licenses/by-sa/4.0/)
+all sources used are in the public domain in the original or are released here under the [creative commons 4.0 Attribution-ShareAlike License](http://creativecommons.org/licenses/by-sa/4.0/), [3.5](http://creativecommons.org/licenses/by-sa/3.5/), and [3.0 international](http://creativecommons.org/licenses/by-sa/3.0/) and [PH-adapted local license](http://creativecommons.org/licenses/by-sa/3.0/ph/) and all changes here are made available in (Attribution-ShareAlike License) the same free license for the sole purpose of availability and preserving freedom to use and share content, including transclusion in other relevant media under the same or any compatible license..
+the Word of God spans millennia of Human History and we believe the message that frees all of us should be free from all arbitrary and artificial control in its translation and distribution as well
+
+## contributing
+changes and improvements are more than welcome! Feel free to fork and open a pull request
+you can open issues for meta-changes, feedback or additional perspective regarding this project
+all contribution and communication on GitHub will be released in the same **creative commons Attribution-ShareAlike License** stated above ([4.0](http://creativecommons.org/licenses/by-sa/4.0/), [3.5](http://creativecommons.org/licenses/by-sa/3.5/), [3.0 international](http://creativecommons.org/licenses/by-sa/3.0/) +[PH-adapted local license](http://creativecommons.org/licenses/by-sa/3.0/ph/))
