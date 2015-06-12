@@ -69,10 +69,17 @@ Shell script which builds the two main sets of USFM files in final-usfm/us and f
 
 ## license / copyright status
 [![creative commons Attribution-ShareAlike License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png "creative commons Attribution-ShareAlike License")](http://creativecommons.org/licenses/by-sa/4.0/)
-all sources used are in the public domain in the original or are released here under the [creative commons 4.0 Attribution-ShareAlike License](http://creativecommons.org/licenses/by-sa/4.0/), [3.5](http://creativecommons.org/licenses/by-sa/3.5/), and [3.0 international](http://creativecommons.org/licenses/by-sa/3.0/) and [PH-adapted local license](http://creativecommons.org/licenses/by-sa/3.0/ph/) and all changes here are made available in (Attribution-ShareAlike License) the same free license for the sole purpose of availability and preserving freedom to use and share content, including transclusion in other relevant media under the same or any compatible license..
+
+all content and text source files used are in the public domain in the original or are released here under the [creative commons 4.0 Attribution-ShareAlike License](http://creativecommons.org/licenses/by-sa/4.0/), [3.5](http://creativecommons.org/licenses/by-sa/3.5/), and [3.0 international](http://creativecommons.org/licenses/by-sa/3.0/) and [PH-adapted local license](http://creativecommons.org/licenses/by-sa/3.0/ph/) and all changes here are made available in the same free license (Attribution-ShareAlike License) for the sole purpose of availability and preserving freedom to use and share content, including transclusion in other relevant media under the same or any compatible license..
+
 the Word of God spans millennia of Human History and we believe the message that frees all of us should be free from all arbitrary and artificial control in its translation and distribution as well
+
+the GitHub repository contains backend source code (primarily Python scripts and associated documentation) used in transforming the source files to formatted content, which is copyright (c) 2010-2013 Russell Allen and available under the BSD licence, a copy of which is available at http://creativecommons.org/licenses/BSD/
+
 
 ## contributing
 changes and improvements are more than welcome! Feel free to fork and open a pull request
+
 you can open issues for meta-changes, feedback or additional perspective regarding this project
-all contribution and communication on GitHub will be released in the same **creative commons Attribution-ShareAlike License** stated above ([4.0](http://creativecommons.org/licenses/by-sa/4.0/), [3.5](http://creativecommons.org/licenses/by-sa/3.5/), [3.0 international](http://creativecommons.org/licenses/by-sa/3.0/) +[PH-adapted local license](http://creativecommons.org/licenses/by-sa/3.0/ph/))
+
+all contribution and communication on GitHub will be released in the same **creative commons Attribution-ShareAlike License** stated above ([4.0](http://creativecommons.org/licenses/by-sa/4.0/), [3.5](http://creativecommons.org/licenses/by-sa/3.5/), [3.0 international](http://creativecommons.org/licenses/by-sa/3.0/) +[PH-adapted local license](http://creativecommons.org/licenses/by-sa/3.0/ph/)) for the Bible texts, and [BSD-license](http://creativecommons.org/licenses/BSD/) for the scripts and source code, unless otherwise indicated
