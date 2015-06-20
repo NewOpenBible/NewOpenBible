@@ -5,7 +5,7 @@ our aim is to empower the people of the World to create a modern translation of 
 
 to help us in this endeavor, we are re-using existing texts in the public domain as our starting point and build upon these with modern emendation guided by state-of-the-art advancement in Bible scholarship
 
-we also want to make inline references to Strong's concordance possible for advanced readers, which will also serve us with internal consistency and self-verifiability of the translated texts with their corresponding original languages
+we also want to make inline references to Strong's concordance possible for advanced readers, which will also serve us with internal consistency and self-verifiability of the translated texts with their corresponding original languages, we will do this as version 1.0 approaches release
 
 technical notes
 ---------------
@@ -20,28 +20,15 @@ our guiding original text references are:
 * Novum Testamentum Graece, [Nestle-Aland](http://en.wikipedia.org/wiki/Novum_Testamentum_Graece) 28th edition
 
 the NewOpenBible will draw upon available texts in the public domain from two independent traditions:
- 1. the **[American Standard Version](http://en.wikipedia.org/wiki/American_Standard_Version)** (**ASV**) released 1901, former copyright has now expired so it is in the public domain and free to be published without payment of royalty---
-   * a free updated revision is the [World English Bible](http://WorldEnglishBible.org) (**WEB**), one of the two most popular public domain, modern-English translations of the entire Bible and freely distributed to the public using electronic formats, a Hebrew Names Version is also available as the World Messianic Bible or World English Bible, Messianic Edition (**WEB:ME**)
- 2. the Open English Bible (**OEB**) derived from the public domain Twentieth Century New Testament (TCNT) based on "The New Testament in the Original Greek" by [Westcott and Hort](http://en.wikipedia.org/wiki/Westcott-Hort) in 1881, and public domain translations of the Hebrew Bible done by John E McFadyen and Charles F Kent based on the Westminster online digital copy of the [Codex Leningradensis](http://en.wikipedia.org/wiki/Leningrad_Codex) maintained by the J. Alan Groves Center for Advanced Biblical Research at the Westminster Theological Seminary
+ 1. the [American Standard Version](http://en.wikipedia.org/wiki/American_Standard_Version) (**ASV**) released 1901, whose former copyright has now expired so it is in the public domain and free to be published without payment of royalty---
+   * a free updated revision is the [World English Bible](http://WorldEnglishBible.org) (**WEB**), one of the two most popular public domain, modern-English translations of the entire Bible and freely distributed to the public using electronic formats; and,
+ 2. the [Open English Bible](http://OpenEnglishBible.org) (**OEB**) derived from the public domain Twentieth Century New Testament (TCNT) based on "The New Testament in the Original Greek" by [Westcott and Hort](http://en.wikipedia.org/wiki/Westcott-Hort) in 1881, and the public domain translations of the Hebrew Bible done by John E McFadyen and Charles F Kent based on the Westminster online digital copy of the [Codex Leningradensis](http://en.wikipedia.org/wiki/Leningrad_Codex) maintained by the J. Alan Groves Center for Advanced Biblical Research at the Westminster Theological Seminary
 
-we will avoid unnecessary interpretation; ambiguous cultural or technical references in the original will be preserved for the readers consideration with appropriate notes
-most of all, we shall not diminish the divine glory and supreme authority of God as witnessed by the original scriptures, and proclaim how God is fulfilling His promises in the good news of our Lord Jesus Christ
-
-
-Open English Bible
-==================
-The [Open English Bible](http://OpenEnglishBible.org) is the anticipated end product of a project intended to create an English translation of the Bible that is:
-
-* under a licence enabling the maximum reuse, remixing and sharing without requiring the payment of royalties or the obtaining of permission from copyright holders; and
-* a translation reflecting modern English usage and Biblical scholarship.
-
-The New Testament of the OEB is being formed by editing the public domain Twentieth Century New Testament (TCNT), which was a new translation of the New Testament published in the early twentieth century, based on the Greek text of Westcott and Hort.
-
-The Hebrew Bible is being formed by editing a number of public domain translations done by John E McFadyen and Charles F Kent.
-
-As such, the OEB as a translation does not stand within the Tyndale tradition but has a separate tradition in a similar manner to the NIV and New English Bible.
-
-Its website is at http://OpenEnglishBible.org
+guidelines
+----------
+* we will avoid unnecessary interpretation: ambiguous cultural, linguistic or technical references in the original will be preserved for the readers consideration with appropriate notes;
+* most of all, we shall not diminish the divine glory and supreme authority of God as witnessed by the original scriptures; and,
+* we will proclaim how God is fulfilling His promises in the good news of our Lord Jesus Christ
 
 
 This site
@@ -70,9 +57,12 @@ Shell script which builds the two main sets of USFM files in final-usfm/us and f
 ## license / copyright status
 [![creative commons Attribution-ShareAlike License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png "creative commons Attribution-ShareAlike License")](http://creativecommons.org/licenses/by-sa/4.0/)
 
-all content and text source files used are in the public domain in the original or are released here under the [creative commons 4.0 Attribution-ShareAlike License](http://creativecommons.org/licenses/by-sa/4.0/), [3.5](http://creativecommons.org/licenses/by-sa/3.5/), and [3.0 international](http://creativecommons.org/licenses/by-sa/3.0/) and [PH-adapted local license](http://creativecommons.org/licenses/by-sa/3.0/ph/) and all changes here are made available in the same free license (Attribution-ShareAlike License) for the sole purpose of availability and preserving freedom to use and share content, including transclusion in other relevant media under the same or any compatible license..
+all content and text source files used are in the public domain in the original, they are modified and released here under the [creative commons Attribution-ShareAlike License 4.0](http://creativecommons.org/licenses/by-sa/4.0/), [3.0 international](http://creativecommons.org/licenses/by-sa/3.0/) and [PH-adapted local license](http://creativecommons.org/licenses/by-sa/3.0/ph/) and all further changes here are made available in the same free license (Attribution-ShareAlike License) for the sole purpose of availability and preserving freedom to use and share content, including transclusion in other relevant media under the same or any compatible license, the license used should never be construed to restrict or diminish any natural or legal right to use these sources as presented here, when in doubt, the essential freedom granted to use these sources shall be interpreted to mean:
+ * as defined by Attribution-ShareAlike License [3.0 PH](http://creativecommons.org/licenses/by-sa/3.0/ph/) under Philippine jurisdiction; or,
+ * as defined by Attribution-ShareAlike License [4.0 (international)](http://creativecommons.org/licenses/by-sa/4.0/) anywhere else in the World..
+copies of which are also hereby attached as [LICENSE](https://github.com/NewOpenBible/NewOpenBible/blob/master/LICENSE.markdown) files for easy reference
 
-the Word of God spans millennia of Human History and we believe the message that frees all of us should be free from all arbitrary and artificial control in its translation and distribution as well
+the Word of God spans millennia of Human History and we believe the message that frees all of us should as well be free from all arbitrary and artificial restriction in its translation and distribution
 
 the GitHub repository contains backend source code (primarily Python scripts and associated documentation) used in transforming the source files to formatted content, which is copyright (c) 2010-2013 Russell Allen and available under the BSD licence, a copy of which is available at http://creativecommons.org/licenses/BSD/
 
@@ -82,4 +72,4 @@ changes and improvements are more than welcome! Feel free to fork and open a pul
 
 you can open issues for meta-changes, feedback or additional perspective regarding this project
 
-all contribution and communication on GitHub will be released in the same **creative commons Attribution-ShareAlike License** stated above ([4.0](http://creativecommons.org/licenses/by-sa/4.0/), [3.5](http://creativecommons.org/licenses/by-sa/3.5/), [3.0 international](http://creativecommons.org/licenses/by-sa/3.0/) +[PH-adapted local license](http://creativecommons.org/licenses/by-sa/3.0/ph/)) for the Bible texts, and [BSD-license](http://creativecommons.org/licenses/BSD/) for the scripts and source code, unless otherwise indicated
+all contribution and communication on GitHub will be released in the same **creative commons Attribution-ShareAlike License** stated above ([4.0](http://creativecommons.org/licenses/by-sa/4.0/), [3.0 international](http://creativecommons.org/licenses/by-sa/3.0/) +[PH-adapted local license](http://creativecommons.org/licenses/by-sa/3.0/ph/)) for the Bible texts, and [BSD-license](http://creativecommons.org/licenses/BSD/) for the scripts and source code, unless otherwise indicated
